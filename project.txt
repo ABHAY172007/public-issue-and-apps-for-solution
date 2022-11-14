@@ -1,0 +1,20 @@
+Problem :- addicted to games
+Application Name: adicction remover
+Solution provided by application:- when the person download any game.the message is given to his/her parents that your ward downloaded game and take permission from them.
+ and we made time limit 1-2 hour when the time limit reach the system will be block.
+
+Problem :- in this world in the people search of money they all time busy to get money but they forgot that it is harmfull to health to busy all time......we must take time ands do physical activities like---Yoga,,cycling,,jogging etc.
+Application Name: smart connect
+Solution provided by application:- it will gives the reminder that our body needs rest
+
+Problem :- people have suffered from blood pressure and sugar etc.
+Application Name: health table
+Solution provided by application:-it will make the chart of people health and update it weekly to check up
+
+Problem :- small children and teenagres are using phone it is effecting on them eyes
+Application Name: eye protector 
+Solution provided by application:-when the small children take mobile from them parents the parents activate the app after 15 minutes the system is lock for 10 minutes
+
+Problem :-the students are very difficult to find sample papers from online
+Application Name: sample paper
+Solution provided by application:-it will give option to student what lessons he/she want sample paper .
